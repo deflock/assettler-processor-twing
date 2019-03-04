@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn test"
   },
   "dependencies": {
-    "@assettler/core": "^0.4.0",
+    "@assettler/core": "0.x",
     "twing": "^2.2.2"
   },
   "devDependencies": {
